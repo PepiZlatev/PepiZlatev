@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- GitHub Stats | Most Used Languages
-:--------------:| :--------------:
-![stats](https://github-readme-stats.vercel.app/api?username=PepiZlatev&theme=radical) | ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical)
+### GitHub Stats
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nakov&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakov&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
